@@ -1,5 +1,5 @@
 name: CustomPlugin
-main: savageprojectile.savageteam.ipiru_.Main
-version: 1.0
-author: iPiru_ 
-description: HolyHCF and ViperMC Snowball Plugin
+main: CustomPlugin.Regteam.trala.Main
+version: 2.0
+author: Regalado 
+description: Custom SnowBall when HolyPvP
